@@ -2,7 +2,6 @@ import React,{useState} from 'react'
 import {HiOutlineMenuAlt4} from 'react-icons/hi'
 import {FaRegTimesCircle} from 'react-icons/fa'
 import {GiUltrasound} from 'react-icons/gi'
-import {BsEarbuds} from 'react-icons/bs'
 import './Navbar.css'
 
 const Navbar = () => {
